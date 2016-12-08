@@ -1,6 +1,6 @@
 <?php
 
-$input = file_get_contents('day07.txt');
+$input = file_get_contents('day06.txt');
 $lines = explode("\n", $input);
 
 $result = '';
